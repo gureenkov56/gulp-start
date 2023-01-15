@@ -1,0 +1,21 @@
+@import './modules/plus.scss';
+
+html {
+    background-color: #181A1B;
+
+    body {
+        max-width: 500px;
+        margin: 0 auto;
+        text-align: center;
+
+        color: white;
+
+        img {
+            margin-top: 4rem;
+        }
+
+        h1 {
+            font-size: 3rem;
+        }
+    }
+}
