@@ -1,0 +1,1 @@
+Run `gulp` in terminal for build project, start LifeServer and watchers for changing.

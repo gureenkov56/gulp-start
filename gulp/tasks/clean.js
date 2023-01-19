@@ -1,3 +1,3 @@
 import { deleteAsync } from 'del';
 
-export const clean = () => deleteAsync('dist');
+export const clean = (folder) => deleteAsync(folder);
